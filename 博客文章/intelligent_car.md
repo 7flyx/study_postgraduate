@@ -257,7 +257,7 @@ catkin_make --pkg ydlidar_ros_driver -j1
 
 ##### a、python环境问题
 
-跟上述 的 3、2、a、python环境问题一摸一样。
+跟上述 的 **3、2、a、python环境问题**一模一样。
 
 **解决方案**：涉及到的文件全部 改写为 **#!/usr/bin/env python3**
 
